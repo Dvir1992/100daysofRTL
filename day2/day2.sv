@@ -1,4 +1,5 @@
-// Different DFF
+// different D flipflops.
+// designer : Dvir Hazut
 
 module day2 (
   input     logic      clk,
