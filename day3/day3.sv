@@ -1,4 +1,5 @@
-// Simple edge detector TB
+// Simple edge detector 
+// designer: Dvir Hazut
 
 module day3 (
 
