@@ -1,3 +1,5 @@
+//ALU
+//designer: Dvir Hazut
 module day4(
   input     logic [7:0]   a_i,  // First 8-bit input vector
   input     logic [7:0]   b_i, // Second 8-bit input vector
